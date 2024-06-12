@@ -33,8 +33,12 @@ I am updating the do_prompt method to store the answers. Once the answers are st
 
 Implemented the do_report method as first read the pstore data if data is present then followed the next 
 
+Clone the Project from the repo 
 
+```sh
+ git@github.com:dnyaneshwar-burgute/assignment-sa-tech-ruby.git
 
+```
 
 Unit Tests
 
@@ -43,11 +47,5 @@ To run the test use command
 rspec questionnaire_spec.rb
 ```
 
-Clone the Project from the repo 
-
-```sh
- git@github.com:dnyaneshwar-burgute/assignment-sa-tech-ruby.git
-
-```
 
 
